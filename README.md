@@ -75,7 +75,7 @@ Follow these steps to set up the application on your local machine:
 
    ```bash 
     php artisan migrate
-**Running the Application:**
+ 7. **Running the Application:**
 
     To start the Laravel development server, use the following command:
     
