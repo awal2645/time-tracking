@@ -14,7 +14,7 @@ This is a Laravel-based Time Tracking System API designed to manage employees an
 
 Before you begin, ensure you have the following installed:
 
-- **PHP 8.2 or higher**: Laravel requires PHP 8.1 or higher.
+- **PHP 8.2 or higher**: Laravel requires PHP 8.2 or higher.
 - **Composer**: Composer is a dependency manager for PHP. You can install it by following the instructions on the [Composer website](https://getcomposer.org/download/).
 - **MySQL or any other supported database**: Laravel supports various databases, including MySQL, PostgreSQL, SQLite, and SQL Server. Ensure you have one of these installed and running.
 - **Postman**: Postman is a tool for testing APIs.
