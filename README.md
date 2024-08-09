@@ -28,8 +28,8 @@ Follow these steps to set up the application on your local machine:
    First, clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/time-tracking-system.git
-   cd time-tracking-system
+   git clone https://github.com/awal2645/time-tracking.git
+   cd time-tracking
 
 2. **Install Dependencies:**
 
